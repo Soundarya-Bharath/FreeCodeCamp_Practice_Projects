@@ -1,2 +1,2 @@
 # FreeCodeCamp_Practice_Projects
-Collected of all completed learning projects from the FreeCodeCamp Curriculum
+This repository includes completed learning projects focused on responsive web design. Each project explored new techniques and enhanced my skills in HTML, CSS, and JavaScript.
